@@ -1,4 +1,4 @@
-package simplesort
+package simple_sort
 
 func Algorithm1(A []int) {
 	n := len(A)

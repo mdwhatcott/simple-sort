@@ -1,4 +1,4 @@
-package simplesort
+package simple_sort
 
 import "testing"
 
