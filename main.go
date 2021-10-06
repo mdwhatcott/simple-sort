@@ -1,9 +1,3 @@
-// Package simplesort implements the algorithms described here:
-// https://arxiv.org/pdf/2110.01111.pdf
-//
-// Also see discussion here:
-// https://news.ycombinator.com/item?id=28758106
-//
 package simplesort
 
 func Algorithm1(A []int) {
